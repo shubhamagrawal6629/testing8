@@ -50,7 +50,8 @@ This software is a simulator to replicate the behavior of the Alternating Bit Pr
 
 ##### test [This folder the unit test for the different include files]
 1. data [This folder contains the data files for test folder]
-    1.1.receiver
+   
+   1.1.receiver
     -    receiver_input_test.txt
 	-	receiver_test_output.txt
     
@@ -65,7 +66,8 @@ This software is a simulator to replicate the behavior of the Alternating Bit Pr
 2. src [This folder contains the source files written in c++ for test folder]
 
     2.1.receiver
-        -   main.cpp
+        
+	-   main.cpp
 
     2.2.sender
 	-   main.cpp
