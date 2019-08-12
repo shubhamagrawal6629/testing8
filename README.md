@@ -50,7 +50,7 @@ This software is a simulator to replicate the behavior of the Alternating Bit Pr
 
 ##### test [This folder the unit test for the different include files]
 1. data [This folder contains the data files for test folder]
-    1.1.receiver
+1.1.receiver
     -    receiver_input_test.txt
 	-	receiver_test_output.txt
     
@@ -63,12 +63,13 @@ This software is a simulator to replicate the behavior of the Alternating Bit Pr
 	-   subnet_input_test.txt
 	-   subnet_test_output.txt
 2. src [This folder contains the source files written in c++ for test folder]
-	2.1.receiver
+2.1.receiver
     -   main.cpp
 
     2.2.sender
 	-   main.cpp
-	2.3.subnet
+	
+    2.3.subnet
 	-   main.cpp
 
 ### STEPS TO RUN THE SIMULATOR
