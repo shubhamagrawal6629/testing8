@@ -88,6 +88,7 @@ Document alternatebitprot.pdf in the doc folder contains the explanation of this
 2.Run the unit tests
 
 2.1. Run subnet test
+
 	1. Open the terminal.
 	2. To compile the test, type in the terminal:
 >               make clean; make comp; make all
