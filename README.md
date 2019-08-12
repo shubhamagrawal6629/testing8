@@ -89,8 +89,8 @@ Document alternatebitprot.pdf in the doc folder contains the explanation of this
 
 2.1. Run subnet test
 
-	1. Open the terminal.
-	2. To compile the test, type in the terminal:
+ 1. Open the terminal.
+ 2. To compile the test, type in the terminal:
 >               make clean; make comp; make all
 	3. To run the test set the command prompt in the bin folder. To do so, type in the terminal the path to this folder.
 >               Example: cd bin
