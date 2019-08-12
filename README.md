@@ -88,14 +88,14 @@ Document alternatebitprot.pdf in the doc folder contains the explanation of this
 2.Run the unit tests
 
 2.1. Run subnet test
-1. Open the terminal.
-2. To compile the test, type in the terminal:
+	1. Open the terminal.
+	2. To compile the test, type in the terminal:
 >               make clean; make comp; make all
-3. To run the test set the command prompt in the bin folder. To do so, type in the terminal the path to this folder.
+	3. To run the test set the command prompt in the bin folder. To do so, type in the terminal the path to this folder.
 >               Example: cd bin
-4. Once inside the bin folder, type in the terminal **"./NAME_OF_THE_COMPILED_FILE"**. For this specific test you need to type:
+	4. Once inside the bin folder, type in the terminal **"./NAME_OF_THE_COMPILED_FILE"**. For this specific test you need to type:
 >               ./SUBNET_TEST
-5. To check the output of the test, open  **"../test/data/subnet_test_output.txt"**
+	5. To check the output of the test, open  **"../test/data/subnet_test_output.txt"**
 
 2.2. To run receiver and sender tests, the steps are analogous to 2.1
 
